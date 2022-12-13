@@ -2074,11 +2074,13 @@
       "german": "Lastenaufzug",
       "french": "Nacelle de fret",
       "japanese": "貨物ゴンドラの駅",
+      "czech": "Nákladní gondola",
   },
   "targetingStation": {
       "english": "Laser Targeting Station",
       "german": "Laserzielstation",
       "french": "Station de ciblage laser",
       "japanese": "レーザー照準ステーション",
+      "czech": "Zaměřovací laserová stanice",
   },
 }
